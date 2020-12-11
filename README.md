@@ -2,7 +2,7 @@
 
 ## Description
 File backup script.  
-A folder named YYYYMMDDhhmmss will be created and files will be backed up in it.
+A folder named [YYYYMMDDhhmmss] will be created and files will be backed up in it.
 
 ## Note
 Notifications are sent to send mail.
