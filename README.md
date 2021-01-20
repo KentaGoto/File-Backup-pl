@@ -9,7 +9,6 @@ Notifications are sent to send mail.
 
 ## Requires
 - Perl 5  
-- Windows  
 
 ## License
 MIT 
